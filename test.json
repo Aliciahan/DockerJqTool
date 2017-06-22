@@ -1,0 +1,75 @@
+{
+  "sha": "7b81a836c31500e685d043729259affa8b670a87",
+  "commit": {
+    "author": {
+      "name": "William Langford",
+      "email": "wlangfor@gmail.com",
+      "date": "2017-06-19T14:55:26Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2017-06-19T14:55:26Z"
+    },
+    "message": "Merge pull request #1403 from Argoday/master\n\nUse unsorted keys in walk",
+    "tree": {
+      "sha": "7f932f04ae055fe230abbf9beb9d68dc4683d8d4",
+      "url": "https://api.github.com/repos/stedolan/jq/git/trees/7f932f04ae055fe230abbf9beb9d68dc4683d8d4"
+    },
+    "url": "https://api.github.com/repos/stedolan/jq/git/commits/7b81a836c31500e685d043729259affa8b670a87",
+    "comment_count": 0
+  },
+  "url": "https://api.github.com/repos/stedolan/jq/commits/7b81a836c31500e685d043729259affa8b670a87",
+  "html_url": "https://github.com/stedolan/jq/commit/7b81a836c31500e685d043729259affa8b670a87",
+  "comments_url": "https://api.github.com/repos/stedolan/jq/commits/7b81a836c31500e685d043729259affa8b670a87/comments",
+  "author": {
+    "login": "wtlangford",
+    "id": 3422295,
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3422295?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wtlangford",
+    "html_url": "https://github.com/wtlangford",
+    "followers_url": "https://api.github.com/users/wtlangford/followers",
+    "following_url": "https://api.github.com/users/wtlangford/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wtlangford/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wtlangford/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wtlangford/subscriptions",
+    "organizations_url": "https://api.github.com/users/wtlangford/orgs",
+    "repos_url": "https://api.github.com/users/wtlangford/repos",
+    "events_url": "https://api.github.com/users/wtlangford/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wtlangford/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "avatar_url": "https://avatars0.githubusercontent.com/u/19864447?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "c538237f4e4c381d35f1c15497c95f659fd55850",
+      "url": "https://api.github.com/repos/stedolan/jq/commits/c538237f4e4c381d35f1c15497c95f659fd55850",
+      "html_url": "https://github.com/stedolan/jq/commit/c538237f4e4c381d35f1c15497c95f659fd55850"
+    },
+    {
+      "sha": "ca12bd9b5d15c0c4e5bd01d706ddbb3f4edefd36",
+      "url": "https://api.github.com/repos/stedolan/jq/commits/ca12bd9b5d15c0c4e5bd01d706ddbb3f4edefd36",
+      "html_url": "https://github.com/stedolan/jq/commit/ca12bd9b5d15c0c4e5bd01d706ddbb3f4edefd36"
+    }
+  ]
+}
